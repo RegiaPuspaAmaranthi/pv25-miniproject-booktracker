@@ -77,7 +77,7 @@ class BookTracker(QMainWindow):
                 padding: 6px;
             }
             QTableWidget::item:selected {
-                background-color: #B0BEC5; /* Soft Blue Gray */
+                background-color: #B0BEC5; 
                 color: black;
             }
             QProgressBar {
@@ -86,7 +86,7 @@ class BookTracker(QMainWindow):
                 text-align: center;
             }
             QProgressBar::chunk {
-                background-color: #578FCA; /* Light Blue */
+                background-color: #578FCA; 
                 width: 12px;
             }
             QComboBox, QSpinBox, QLineEdit, QTextEdit {
